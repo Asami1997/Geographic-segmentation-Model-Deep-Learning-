@@ -2,7 +2,8 @@
 
 <h2><b>Business Problem</h2></b>: A bank with millions of customers noticed an unusual churn rates and wants to uderstand what is causing the problem and get insights.They gave out a dataset which includes a sample of 10,000 customers who either left or stayed during a period of six months.  
 
-THe goal is to create a Geographic segmentation model using Artficial Neural Networks.
+THe goal is to create a Geographic segmentation model using Artficial Neural Networks that is able to predict which customers are at highest risk of leaving the bank.
+.
 
 ![data_screenshot](https://user-images.githubusercontent.com/22086266/43688027-09928e36-98ea-11e8-89fe-35d52423123b.png)
 
@@ -12,6 +13,7 @@ THe goal is to create a Geographic segmentation model using Artficial Neural Net
 1) Keras 
 
 2) Tesnserflow
+ which customers are at highest risk of leaving the bank.
 
 3) Scikit Learn
 
