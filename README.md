@@ -13,7 +13,6 @@ THe goal is to create a Geographic segmentation model using Artficial Neural Net
 1) Keras 
 
 2) Tesnserflow
- which customers are at highest risk of leaving the bank.
 
 3) Scikit Learn
 
